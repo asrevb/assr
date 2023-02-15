@@ -7,8 +7,8 @@ load_dotenv()
 # client vars
 API_ID = int(getenv("API_ID", "7452578")) #لا تغير هاذة القيمة
 API_HASH = getenv("API_HASH", "061d67ee8eed9368c5cadabb4aa21efc")#لا تغير هاذة القيمة
-BOT_TOKEN = getenv("BOT_TOKEN", "")
-SESSION_NAME = getenv("SESSION_NAME", "")
+BOT_TOKEN  =  getenv ( "BOT_TOKEN" ، "6101481183:AAEnSAv4ic3FAh-wgTNH8r-b6wMTsboDE5Q" )
+SESSION_NAME  =  getenv ( "SESSION_NAME" ، "! " )
 
 # mandatory vars
 OWNER_USERNAME     =     getenv ( "OWNER_USERNAME"    ،    "aasr_6" ) # @ هنا ضع يوزر حسابك بدو
